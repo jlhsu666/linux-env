@@ -1,0 +1,21 @@
+{
+  "title": "Ubuntu Custom Content",
+  "description": "This is a blank ubuntu environment",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Install needed package",
+        "text": "step1.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
